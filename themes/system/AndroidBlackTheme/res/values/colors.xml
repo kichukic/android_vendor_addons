@@ -62,4 +62,9 @@
     <color name="system_surface_container_low_dark">#0F0F0F</color> <!-- Close to dim -->
     <color name="system_surface_dim_dark">#0C0C0C</color> <!-- Darker still -->
     <color name="system_surface_container_lowest_dark">#080808</color> <!-- Deepest dark -->
+<color name="materialColorSurfaceContainerHigh">#171717</color>
+    <color name="materialColorSurfaceContainerHighest">#1B1B1B</color>
+    <color name="materialColorSurfaceContainer">#000000</color>
+    <color name="materialColorSurfaceContainerLow">#0F0F0F</color>
+    <color name="materialColorSurfaceContainerLowest">#080808</color>
 </resources>
