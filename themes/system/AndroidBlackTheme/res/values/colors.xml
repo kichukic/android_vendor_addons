@@ -67,4 +67,7 @@
     <color name="materialColorSurfaceContainer">#000000</color>
     <color name="materialColorSurfaceContainerLow">#0F0F0F</color>
     <color name="materialColorSurfaceContainerLowest">#080808</color>
+    <color name="background_material_dark">#000000</color>
+    <color name="background_floating_material_dark">#000000</color>
+    <color name="autofill_background_material_dark">#000000</color>
 </resources>
